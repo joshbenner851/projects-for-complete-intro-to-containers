@@ -11,6 +11,7 @@
   "postCreateCommand": "npm install",
   "extensions": [
     // "somekittens.hot-dog-stand",
+    "ms-vsliveshare.vsliveshare-pack",
     "sdras.night-owl",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode"
